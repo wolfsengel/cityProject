@@ -1,32 +1,40 @@
-[Name of the city with country, region or province optional]
+[<h1>Toponomy of Pernambuco</h1>]
 
-[List with four links to another pages of the project. 
-One page should deal with the history and legends of the city. 
-Another page should deal with the toponomy of the city name.
-Another page should deal with the notable people born in the city.
-Another page should deal with the monuments of the city.
+[ <p>Come back to the <a href="index.html">main page</a></p>
+    		<li><a href="history.html">History of the city</a></li>
+            <li><a href="">Main toponomy</a></li>
+            <li><a href="monuments.html">Monuments</a>.</li>
+            <li><a href="people.html">People</a></li>
 ]
 
 [Longest heading indicating that the page is going to deal with the main monuments of the city] 
 [Brief paragraph introducing the information about the monuments of the city]
 
-[Paragraph with the name of the author of the information]
+[<p>by Ángel Gómez Prol</p>
+    <p>13/10/2022</p>]
 
-[Paragraph with the information publication or update date]
+[ <h3>Regions</h3>]
 
-[Heading with the name of one of the monuments of the city]
+[<p>The coastal area is fertile, and was formerly covered by the humid Pernambuco coastal forests, the northern extension of the Atlantic Forests (Mata Atlântica) of eastern Brazil. It is now occupied by extensive sugar cane plantations. It has a hot, humid climate, relieved to some extent by the south-east trade winds.</p>]
 
-[Paragraph with information about the monument]
+[<img src="img/Parque_Nacional_do_Catimbau_-_Pernambuco_-_Brasil.jpg">]
 
-[Image of the monument with alternate text for the image]
-[Paragraph with a title for the image]
+[<caption>Pernambuco's National Park</caption>]
+[ <h3>Recife</h3>]
 
-[Heading with the name of another of the monuments of the city]
+[<p>Recife is the fourth-largest urban area in Brazil with 4,054,866 inhabitants, the largest urban area of the North/Northeast Regions, and the capital and largest city of the state of Pernambuco in the northeast corner of South America. The population of the city proper was 1,653,461 in 2020. Recife was founded in 1537, during the early Portuguese colonization of Brazil, as the main harbor of the Captaincy of Pernambuco, known for its large scale production of sugar cane. It was the former capital Mauritsstad of the 17th century colony of New Holland of Dutch Brazil, established by the Dutch West India Company. The city is located at the confluence of the Beberibe and Capibaribe rivers before they flow into the South Atlantic Ocean. It is a major port on the Atlantic. Its name is an allusion to the stone reefs that are present by the city's shores. The many rivers, small islands and over 50 bridges found in Recife city centre characterise its geography and led to the city being called the "Brazilian Venice". As of 2010, it is the capital city with the highest HDI in Northeast Brazil and second highest HDI in the entire North and Northeast Brazil (second only to Palmas).
 
-[Paragraph with information about the monument]
+        The Metropolitan Region of Recife is the main industrial zone of the State of Pernambuco, major products are those derived from cane (sugar and ethanol), motor vehicles, ships, oil platforms, electronics, software, and others. With fiscal incentives by the government, many industrial companies were started in the 1970s and 1980s. Recife has a tradition of being the most important commercial hub of the North/Northeastern region of Brazil, with more than 52,500 business enterprises in Recife plus 32,500 in the Metro Area, totaling more than 85,000.</p>]
 
-[Heading about some information related to the last monument]
+[<img src="img/Recife_-_Início_da_Avenida_Boa_Viagem.jpg">]
 
-[Paragraph with information related to the last monument]
+[<caption>Recife's east coast</caption>]
 
-[Paragraph with copyright information]
+[<h3>Coastal forest of Pernambuco</h3>]
+
+[<p>The Pernambuco coastal forests occupy an 80 km-wide strip along the Atlantic coast of northeastern Brazil in the states of Pernambuco and Alagoas. The forests extend from near sea level to 600–800 metres (2,000–2,600 ft) in elevation, on the windward slopes of the Borborema Plateau.
+
+        The Goiana River of Pernambuco marks the forests' northern extent, and the Mundaú River of Alagoas the southern extent.
+        
+        The ecoregion is bounded on the east by the Atlantic Ocean and the coastal Atlantic Coast restingas forests and Rio Piranhas mangroves. To the east, the forests transition to the drier Pernambuco interior forests and Caatinga.</p>]
+[ <img src="img/1024px-Atlantic_forest.jfif"> ]
